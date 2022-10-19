@@ -1,0 +1,4 @@
+# folder for downloaded data
+data/*
+# Jupyter lab files
+.ipynb_checkpoints
